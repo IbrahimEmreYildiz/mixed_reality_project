@@ -27,20 +27,6 @@ Kullanıcı, menüden istediği gezegeni seçip o gezegenin dönüş animasyonun
 
 ---
 
-## 📸 Ekran Görüntüleri
-
-Aşağıdaki görseller uygulamadan alınmıştır:
-
-![Main Menu](images/menu.png)
-*Menü ekranı – Gezegen seçimi yapılabilir.*
-
-![Earth Rotation](images/earth.png)
-*Dünya’nın dönüş animasyonu.*
-
-![Mars Rotation](images/mars.png)
-*Mars’ın dönüş animasyonu.*
-
----
 
 ## 🧠 Proje Hakkında
 
@@ -53,4 +39,5 @@ Basit görünmesine rağmen; transform, rotation, input ve scene management gibi
 
 1. Projeyi klonla:
    ```bash
-   git clone https://github.com/<kullanıcı-adın>/Planet-Animation.git
+ git clone https://github.com/IbrahimEmreYildiz/Planet-Animation.git
+
